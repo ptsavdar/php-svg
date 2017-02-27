@@ -5,7 +5,6 @@ namespace JangoBrick\SVG\Reading;
 use JangoBrick\SVG\SVGImage;
 use JangoBrick\SVG\Nodes\SVGNode;
 use JangoBrick\SVG\Nodes\SVGNodeContainer;
-use JangoBrick\SVG\Utilities\SVGAttrParser;
 use JangoBrick\SVG\Utilities\SVGStyleParser;
 
 /**
